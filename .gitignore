@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Tampermonkey specific (if any local dev tools are used)
+node_modules/
+dist/
+*.log
