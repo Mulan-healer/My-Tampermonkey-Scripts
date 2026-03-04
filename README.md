@@ -21,7 +21,7 @@
 | 脚本名称 | 功能描述 | 安装链接 | 状态 |
 | :--- | :--- | :--- | :--- |
 | **OpenList 播放增强** | 调用 MPV 并记录播放历史 | [安装](https://github.com/Mulan-healer/My-Tampermonkey-Scripts/raw/main/OpenList-MPV-Enhancer/script.user.js) | ✅ 维护中 |
-| **AList 观看助手** | 保留历史跳转，优化渲染性能 | [安装](https://github.com/Mulan-healer/My-Tampermonkey-Scripts/raw/main/Other-Scripts/AList-Watching-Assistant.user.js) | ✅ 维护中 |
+| **AList 观看助手** | 保留历史跳转，优化渲染性能 (V12.1) | [安装](https://github.com/Mulan-healer/My-Tampermonkey-Scripts/raw/main/Other-Scripts/AList-Watching-Assistant.user.js) | ✅ 维护中 |
 | **待更新脚本...** | 敬请期待 | - | 🛠️ 计划中 |
 
 ## 🛠️ 如何使用
